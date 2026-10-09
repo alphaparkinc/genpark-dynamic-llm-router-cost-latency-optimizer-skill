@@ -1,0 +1,1 @@
+# genpark-dynamic-llm-router-cost-latency-optimizer-skill\n\nSelects optimal model endpoint based on query complexity, budget, and latency tolerance.\n\n100% Python Standard Library implementation with zero external dependencies.
