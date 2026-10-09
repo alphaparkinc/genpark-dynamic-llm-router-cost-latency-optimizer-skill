@@ -1,0 +1,8 @@
+{
+  "name": "genpark-dynamic-llm-router-cost-latency-optimizer-skill",
+  "version": "1.0.0",
+  "description": "Selects optimal model endpoint based on query complexity, budget, and latency tolerance",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
