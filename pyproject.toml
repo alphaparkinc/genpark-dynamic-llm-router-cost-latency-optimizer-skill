@@ -1,0 +1,1 @@
+[project]\nname = "genpark-dynamic-llm-router-cost-latency-optimizer-skill"\nversion = "1.0.0"\ndescription = "Selects optimal model endpoint based on query complexity, budget, and latency tolerance"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
